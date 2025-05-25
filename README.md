@@ -86,14 +86,3 @@ La shell te permite interactuar con el simulador mediante comandos:
 - JavaScript (ES6+)
 - CSS3 con animaciones
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## Contribuir
-
-1. Haz un Fork del proyecto
-2. Crea una rama para tu función (`git checkout -b feature/nueva-funcion`)
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva función'`)
-4. Sube tus cambios (`git push origin feature/nueva-funcion`)
-5. Abre un Pull Request
