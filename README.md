@@ -21,7 +21,8 @@ Este proyecto es un simulador de sistema operativo básico que implementa los co
 
 1. Clona este repositorio:
 
-git clone https://github.com/aarizaf/simulator_op.git
+-git clone https://github.com/aarizaf/simulator_op.git
+-cd simulator-op
 
 
 2. Instala las dependencias:
